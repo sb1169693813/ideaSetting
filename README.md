@@ -1,0 +1,2 @@
+# ideaSetting
+idea配置
